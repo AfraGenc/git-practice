@@ -1,0 +1,58 @@
+Files: File is used for containing or storing data.
+Different types of files:
+         File name           extension (ends with)
+
+         text file           .txt
+         PDF files           .pdf
+         exel                .xlsx
+         word document       .docx
+         power point         .ppt
+         pictures            .jpg,png...
+         java                .java
+
+         every single files has its own file extension
+
+         folder: a special place where we can save files and folders
+
+         Path: exact location of the folder
+         powershell: it gives me folder user name
+
+         command: Giving order to the computer via terminal (or powershell)
+
+         Terminal and powershall: It is an app, controls the administraction of your computer
+
+         Why we should learn?
+           Some options in computer has to be done throught the command.
+
+           Basic command:
+              cd: used for change directory. ("cd directorName")
+              cd -: 
+
+              ls: Displays all the folders and files in the current
+             directory
+
+              clear: clears the terminal(power shell) without changing the home directory
+
+              cd~: change the directoey to home directory
+
+              pwd: displayes the location of the directory you are inclear
+
+              how to create a folder using terminal: mkdir foldername
+
+              how to create a file: touch filename.type
+
+              how to delete an empty folder: rmdir foldername
+
+              how to delete a folder that's not empty: rm -r foldername 
+
+              
+
+              
+
+
+
+
+
+
+
+
